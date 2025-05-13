@@ -1,0 +1,19 @@
+selenium
+tk
+customtkinter
+Pillow
+CTkTable
+tqdm
+selenium
+webdriver_manager
+unidecode
+faker
+gender_guesser
+xlrd
+openpyxl
+pandas
+random_address
+tkinterdnd2
+pyglet
+geopy
+# enum
